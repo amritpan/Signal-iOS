@@ -17,7 +17,7 @@
 "ACCESSIBILITY_LABEL_CONTACT" = "ਸੰਪਰਕ ";
 
 /* Accessibility label for contact. Embeds: {{ the contact name }}. */
-"ACCESSIBILITY_LABEL_CONTACT_FORMAT" = "Contact for %@";
+"ACCESSIBILITY_LABEL_CONTACT_FORMAT" = "%@ ਦਾ ਸੰਪਰਕ";
 
 /* Accessibility label for media. */
 "ACCESSIBILITY_LABEL_MEDIA" = "ਮੀਡੀਆ";
@@ -29,10 +29,10 @@
 "ACCESSIBILITY_LABEL_STICKER" = "ਸਟਿੱਕਰ";
 
 /* Accessibility label for a voice memo. */
-"ACCESSIBILITY_LABEL_VOICE_MEMO" = "Voice message";
+"ACCESSIBILITY_LABEL_VOICE_MEMO" = "ਆਡੀਓ ਸੁਨੇਹਾ";
 
 /* Accessibility label for a voice memo. Embeds: {{ the duration of the voice message }}. */
-"ACCESSIBILITY_LABEL_VOICE_MEMO_FORMAT" = "Voice message %@ seconds";
+"ACCESSIBILITY_LABEL_VOICE_MEMO_FORMAT" = "ਆਡੀਓ ਸੁਨੇਹਾ %@ ਸਕਿੰਟ";
 
 /* Label for 'audio call' button in contact view. */
 "ACTION_AUDIO_CALL" = "Signal ਕਾਲ ";
@@ -5240,7 +5240,7 @@
 "WAITING_TO_COMPLETE_DEVICE_LINK_TEXT" = "Signal Desktop 'ਤੇ ਸੈੱਟਅਪ ਪੂਰਾ ਕਰੋ.";
 
 /* Placeholder text for header of the wallpaper mini preview */
-"WALLPAPER_MINI_PREVIEW_CONTACT_NAME" = "Contact Name";
+"WALLPAPER_MINI_PREVIEW_CONTACT_NAME" = "ਸੰਪਰਕ ਨਾਮ";
 
 /* Blur button on wallpaper preview. */
 "WALLPAPER_PREVIEW_BLUR_BUTTON" = "Blur Photo";
